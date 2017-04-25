@@ -25,13 +25,17 @@ body {
   padding: 0.75em;
   vertical-align: text-top;
 }
+
 .sidebar-left { grid-area: left; }
+
 .main-content {
   grid-area: main-content;
   padding: 1em;
   vertical-align: text-top;
 }
+
 .sidebar-right { grid-area: right; }
+
 .footer {
   grid-area: footer;
   padding: 1em;
